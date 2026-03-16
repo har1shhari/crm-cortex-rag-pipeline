@@ -48,10 +48,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-
-
-
-👤 About the Author
+## 👤 About the Author
 Harishkumar Moorthy
 
 MBA, International Business Management | B.E. Mechanical Engineering
@@ -59,3 +56,5 @@ MBA, International Business Management | B.E. Mechanical Engineering
 Certified Salesforce Agentforce Specialist & Tableau CRM Consultant
 
 Linkedin:(https://www.linkedin.com/in/harishkumar-moorthy-95255012b/)
+
+
