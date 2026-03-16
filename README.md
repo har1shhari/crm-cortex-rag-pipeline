@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 # 5. Run the Streamlit app
 streamlit run app.py
-
+```bash
 
 ## 👤 About the Author
 Harishkumar Moorthy
