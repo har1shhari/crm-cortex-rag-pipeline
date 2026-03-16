@@ -25,6 +25,16 @@ This pipeline extracts mock Salesforce account and support data, vectorizes it f
 3. **Semantic Retrieval:** When a user queries the Streamlit app, the input is vectorized and matched against the database using cosine similarity to retrieve the most relevant CRM context.
 4. **LLM Generation:** The retrieved context is passed to a Snowflake Cortex LLM to generate a precise, hallucination-free answer with specific client details.
 
+## 👤 About the Author
+* **Harishkumar Moorthy
+
+* **MBA, International Business Management | B.E. Mechanical Engineering
+
+* **Certified Salesforce Agentforce Specialist & Tableau CRM Consultant
+
+* **Linkedin:(https://www.linkedin.com/in/harishkumar-moorthy-95255012b/)
+
+
 ## 🚀 Quick Start (Local Setup)
 To run this application locally, ensure you have a Snowflake account and Python 3.9+ installed.
 
@@ -46,15 +56,8 @@ pip install -r requirements.txt
 
 # 5. Run the Streamlit app
 streamlit run app.py
-```bash
 
-## 👤 About the Author
-Harishkumar Moorthy
 
-MBA, International Business Management | B.E. Mechanical Engineering
 
-Certified Salesforce Agentforce Specialist & Tableau CRM Consultant
-
-Linkedin:(https://www.linkedin.com/in/harishkumar-moorthy-95255012b/)
 
 
