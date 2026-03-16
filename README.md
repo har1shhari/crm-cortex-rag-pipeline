@@ -11,7 +11,7 @@ This project solves that by creating an **Autonomous RAG (Retrieval-Augmented Ge
 This pipeline extracts mock Salesforce account and support data, vectorizes it for semantic search, and serves it through an AI-powered chat interface.
 
 
-*(Note: Create a quick flowchart in Draw.io showing CSV -> Python -> Snowflake -> Cortex -> Streamlit, save it as architecture.png in your repo, and replace this line with: `![Architecture Diagram](architecture.png)`)*
+![Architecture Diagram](architecture.png)
 
 ## 🛠️ Tech Stack & Skills Demonstrated
 * **Data Warehouse & AI:** Snowflake, Snowflake Cortex (`EMBED_TEXT_768`, `COMPLETE`)
