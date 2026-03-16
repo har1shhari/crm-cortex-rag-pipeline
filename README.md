@@ -1,5 +1,6 @@
 # 🚀 Autonomous CRM RAG Pipeline: Salesforce to Snowflake Cortex
 
+**Watch the 2-Minute Demo:** https://www.loom.com/share/c6526861eb3c4696bf1317e538f02bbd
 
 ## 📌 The Business Problem
 Enterprise consulting teams spend countless hours manually extracting, reading, and analyzing unstructured CRM data (like support tickets and account notes) to assess client health. 
