@@ -13,12 +13,12 @@ connection_parameters = {
     "account": os.getenv("SNOWFLAKE_ACCOUNT"),
     "user": os.getenv("SNOWFLAKE_USER"),
     "password": os.getenv("SNOWFLAKE_PASSWORD"),
+    "authenticator": "externalbrowser",  
     "role": "ACCOUNTADMIN", 
     "warehouse": "COMPUTE_WH", 
     "database": "CRM_DB",
     "schema": "PUBLIC"
 }
-
 # Build the session with a safety check
 session = None
 try:
