@@ -26,13 +26,13 @@ This pipeline extracts mock Salesforce account and support data, vectorizes it f
 4. **LLM Generation:** The retrieved context is passed to a Snowflake Cortex LLM to generate a precise, hallucination-free answer with specific client details.
 
 ## 👤 About the Author
-* **Harishkumar Moorthy
+**Harishkumar Moorthy
 
-* **MBA, International Business Management | B.E. Mechanical Engineering
+**MBA, International Business Management | B.E. Mechanical Engineering
 
-* **Certified Salesforce Agentforce Specialist & Tableau CRM Consultant
+**Certified Salesforce Agentforce Specialist & Tableau CRM Consultant
 
-* **Linkedin:(https://www.linkedin.com/in/harishkumar-moorthy-95255012b/)
+**Linkedin:(https://www.linkedin.com/in/harishkumar-moorthy-95255012b/)
 
 
 ## 🚀 Quick Start (Local Setup)
